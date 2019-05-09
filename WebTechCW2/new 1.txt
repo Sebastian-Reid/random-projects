@@ -1,6 +1,0 @@
-head{
-	back
-}
-body{}
-h1{}
-h2{}
